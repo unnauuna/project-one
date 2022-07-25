@@ -114,6 +114,8 @@ public class MainActivity extends AppCompatActivity {
                     //food_season.setText("음식 계절: "+season);
                     season_exp.setText(description);
 
+                    //수정수정수정수정수정수정수정수정수정수정수정수정수정수정수정수정수정수정
+
 
                 }catch (Exception e){
                     e.printStackTrace();
